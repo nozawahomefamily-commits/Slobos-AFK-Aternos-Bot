@@ -16,3 +16,5 @@
     "mineflayer-pathfinder": "^2.1.1"
   }
 }
+    "mineflayer-bedrock": "^1.0.0",
+    "bedrock-protocol": "^3.0.0",
